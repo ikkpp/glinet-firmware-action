@@ -6,6 +6,18 @@ feeds:
     branch: master
 packages:
   - luci-app-mwan3
+  - luci-app-ramfree
+  - luci-app-ssr-plus
+  - luci-app-unblockmusic
+  - luci-app-upnp
+  - luci-app-docker
+  - luci-app-familycloud
+  - luci-app-go-aliyundrive-webdav
+  - luci-app-jd-dailybonus
+  - luci-app-openclash
+  - luci-app-passwal
+  - luci-app-uugamebooster
+  - luci-app-xlnetacc
 
 
 
